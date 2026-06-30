@@ -24,4 +24,4 @@ token
 `https://reqres.in`
 User needs to have a account in the above URL. After account is created, user will get a API Key which will be required to use the APIs.
 Pass this API key in headers for all APIs as 
-x-api-key: <YOUR API KEY>
+x-api-key: <YOUR_API_KEY>
